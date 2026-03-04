@@ -1,10 +1,10 @@
-# 🌍 Kavin Travels Website
+#  Kavin Travels Website
 
 Kavin Travels is a responsive travel booking website designed to showcase tour packages, destinations, and travel services in a professional and user-friendly way.
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 This project is a front-end travel website built using HTML, CSS, and JavaScript.  
 It is designed for travel agencies to display tour packages, services, and contact information.
@@ -13,7 +13,7 @@ The website layout is clean, responsive, and easy to customize.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Responsive Design
 - ✅ Attractive Home Page
@@ -25,12 +25,11 @@ The website layout is clean, responsive, and easy to customize.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap
 
----
 
-## 📂 Project Structure
